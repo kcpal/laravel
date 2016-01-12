@@ -1,0 +1,30 @@
+
+
+
+.header-content.clearfix {
+    margin-bottom: 10px;
+}
+.logo {
+    display: block;
+    float: left;
+}
+.logo-image {
+    height: 55px;
+}
+
+.text-muted {
+    color: #777;
+    float: left;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.btn.btn-primary.active {
+    float: right;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.error {
+    color: #ff0000;
+}
